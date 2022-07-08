@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ucans/react-github-pages/static/css/main.6fb7700a.css",
-    "main.js": "/ucans/react-github-pages/static/js/main.83375501.js",
-    "static/js/787.b701888c.chunk.js": "/ucans/react-github-pages/static/js/787.b701888c.chunk.js",
-    "static/media/logo.svg": "/ucans/react-github-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ucans/react-github-pages/index.html",
-    "main.6fb7700a.css.map": "/ucans/react-github-pages/static/css/main.6fb7700a.css.map",
-    "main.83375501.js.map": "/ucans/react-github-pages/static/js/main.83375501.js.map",
-    "787.b701888c.chunk.js.map": "/ucans/react-github-pages/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/react-github-pages/static/css/main.6fb7700a.css",
+    "main.js": "/react-github-pages/static/js/main.25e49e25.js",
+    "static/js/787.b701888c.chunk.js": "/react-github-pages/static/js/787.b701888c.chunk.js",
+    "static/media/logo.svg": "/react-github-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-github-pages/index.html",
+    "main.6fb7700a.css.map": "/react-github-pages/static/css/main.6fb7700a.css.map",
+    "main.25e49e25.js.map": "/react-github-pages/static/js/main.25e49e25.js.map",
+    "787.b701888c.chunk.js.map": "/react-github-pages/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6fb7700a.css",
-    "static/js/main.83375501.js"
+    "static/js/main.25e49e25.js"
   ]
 }
