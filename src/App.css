@@ -7,6 +7,16 @@
   pointer-events: none;
 }
 
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.github-logo{
+  height: 5vmin;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -23,6 +33,32 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+.App-footer{
+  /* min-height: 10vh; */
+  background-color: #282c34;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: space-evenly;  
+  color: white;
+}
+
+.App-main{
+  /* min-height: 100vh; */
+  display: flex;
+  min-height: 30vh;
+  flex-flow: row wrap;
+  justify-content: space-evenly;  
+  font-size: calc(5px + 2vmin);
+}
+
+.full-stack{
+  text-decoration: underline;
+}
+
+
+
 
 .App-link {
   color: #61dafb;
