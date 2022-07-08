@@ -15,7 +15,7 @@ function Header(props) {
       <h1>{props.title}</h1>
       <p>I wanna be <code className='full-stack'>full-stack-developer</code></p>
       <p>
-        Let's <a onClick={(event) => {event.preventDefault(); props.onChangeMode();}}> 
+        Let's <a href="2" onClick={(event) => {event.preventDefault(); props.onChangeMode();}}> 
         🔥BURN🔥</a> together</p>
     </header>
   );
@@ -25,7 +25,7 @@ function List(props){
   const lis = [];
   props.topics.map((topic) =>
     lis.push(
-      <li key={topic.id}><a className='App-link'>{topic.title}</a></li>)
+      <li key={topic.id}><a href="1" className='App-link'>{topic.title}</a></li>)
   );
   return (
       <ul>{lis}</ul>
